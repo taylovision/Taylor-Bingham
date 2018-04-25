@@ -165,7 +165,7 @@ body.page-template-page-fullsingle-split {
 		  
   .fs-split .split-content-full {
     width: 80%;
-    min-height: 100vh;
+    margin: 0 auto;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
