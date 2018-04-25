@@ -92,7 +92,7 @@ a:hover {
     opacity: 1; } }
 
 html {
-  background-color: #FFFFFF; }
+  background-color: #1E1E24; }
 
 body.page-template-page-fullsingle-split {
   background-color: #1E1E24;
@@ -130,6 +130,11 @@ body.page-template-page-fullsingle-split {
       .fs-split .split-image {
         height: 80vh;
         width: 100%; } }
+		
+ .fs-split .split-image-article {
+    width: 100%;
+    height: auto;}
+	
   .fs-split .split-content {
     width: 50%;
     min-height: 100vh;
@@ -157,7 +162,35 @@ body.page-template-page-fullsingle-split {
       @media (max-width: 800px) {
         .fs-split .split-content .split-content-vertically-center {
           padding: 40px; } }
-
+		  
+  .fs-split .split-content-full {
+    width: 80%;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    overflow: auto; }
+    @media (max-width: 800px) {
+      .fs-split .split-content-full {
+        width: 100%;
+        height: auto; } }
+    .fs-split .split-content-full .split-content-vertically-center {
+      padding: 80px;
+      max-width: 100%;
+      margin: auto; }
+      @media (max-width: 1200px) {
+        .fs-split .split-content-full .split-content-vertically-center {
+          padding: 60px; } }
+      @media (max-width: 800px) {
+        .fs-split .split-content-full .split-content-vertically-center {
+          padding: 40px; } }
+		  
 .split-intro {
   font-weight: 600;
   font-size: 3em;
