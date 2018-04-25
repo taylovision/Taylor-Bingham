@@ -120,6 +120,19 @@ body.page-template-page-fullsingle-split {
       height: auto;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap; } }
+		  
+		  .fs-split-none {
+  width: 100vw;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  @media (max-width: 800px) {
+    .fs-split-none {
+      height: auto;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap; } }
+		  
   .fs-split .split-image {
     width: 50%;
     height: 100vh;
@@ -165,7 +178,7 @@ body.page-template-page-fullsingle-split {
 		  
   .fs-split .split-content-full {
     width: 80%;
-    margin: 0 auto;
+    min-height: 100vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
