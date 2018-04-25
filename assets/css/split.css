@@ -130,6 +130,11 @@ body.page-template-page-fullsingle-split {
       .fs-split .split-image {
         height: 80vh;
         width: 100%; } }
+		
+ .fs-split .split-image-article {
+    width: 100%;
+    height: auto;}
+	
   .fs-split .split-content {
     width: 50%;
     min-height: 100vh;
