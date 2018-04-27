@@ -165,7 +165,7 @@ body.page-template-page-fullsingle-split {
           padding: 40px; } }
 	
 		  .fs-split-none {
-  width: 100vw;
+  max-width: 100vw;
   margin: 0 auto;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -182,7 +182,7 @@ body.page-template-page-fullsingle-split {
 	
   .fs-split-none .split-content {
     width: 50%;
-	    margin: 0 auto;
+	 margin: 0 auto;
     min-height: 100vh;
     display: -webkit-box;
     display: -ms-flexbox;
