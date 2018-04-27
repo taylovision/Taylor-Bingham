@@ -121,18 +121,6 @@ body.page-template-page-fullsingle-split {
       -ms-flex-wrap: wrap;
           flex-wrap: wrap; } }
 		  
-		  .fs-split-none {
-  width: 100vw;
-  margin: 0 auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex; }
-  @media (max-width: 800px) {
-    .fs-split-none {
-      height: auto;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap; } }
-		  
   .fs-split .split-image {
     width: 50%;
     height: 100vh;
@@ -175,9 +163,25 @@ body.page-template-page-fullsingle-split {
       @media (max-width: 800px) {
         .fs-split .split-content .split-content-vertically-center {
           padding: 40px; } }
+	
+		  .fs-split-none {
+  width: 100vw;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  @media (max-width: 800px) {
+    .fs-split-none {
+      height: auto;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap; } }
 		  
-  .fs-split .split-content-full {
-    width: 80%;
+ .fs-split-none .split-image-article {
+    width: 100%;
+    height: auto;}
+	
+  .fs-split-none .split-content {
+    width: 50%;
     min-height: 100vh;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -190,20 +194,21 @@ body.page-template-page-fullsingle-split {
             justify-content: center;
     overflow: auto; }
     @media (max-width: 800px) {
-      .fs-split .split-content-full {
+      .fs-split-none .split-content {
         width: 100%;
         height: auto; } }
-    .fs-split .split-content-full .split-content-vertically-center {
+    .fs-split-none .split-content .split-content-vertically-center {
       padding: 80px;
       max-width: 100%;
       margin: auto; }
       @media (max-width: 1200px) {
-        .fs-split .split-content-full .split-content-vertically-center {
+        .fs-split-none .split-content .split-content-vertically-center {
           padding: 60px; } }
       @media (max-width: 800px) {
-        .fs-split .split-content-full .split-content-vertically-center {
-          padding: 40px; } }
-		  
+        .fs-split-none .split-content .split-content-vertically-center {
+          padding: 40px; } }	
+	
+	
 .split-intro {
   font-weight: 600;
   font-size: 3em;
