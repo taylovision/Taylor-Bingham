@@ -182,6 +182,7 @@ body.page-template-page-fullsingle-split {
 	
   .fs-split-none .split-content {
     width: 50%;
+	    margin: 0 auto;
     min-height: 100vh;
     display: -webkit-box;
     display: -ms-flexbox;
