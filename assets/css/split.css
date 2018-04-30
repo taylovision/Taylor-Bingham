@@ -223,7 +223,7 @@ body.page-template-page-fullsingle-split {
     margin-bottom: 40px;
     letter-spacing: 0.4px;
     color:#FBF5F3; }
-	.split-content-vertically-center a {
+	.split-back a {
     color: #FBF5F3;
 	font-weight: 400;
     text-transform: uppercase;
@@ -234,7 +234,7 @@ body.page-template-page-fullsingle-split {
 	opacity: 0.5;
     transition-duration: 0.5s;
      }
-    .split-content-vertically-center a:hover {
+    .split-back a:hover {
       color: #FBF5F3;
      opacity: 0.8;
     transition-duration: 0.1s;
