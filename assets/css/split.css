@@ -314,11 +314,11 @@ body.page-template-page-fullsingle-split {
     color: #FBF5F3;
     letter-spacing: .2em;}
 	  .split-lists .split-list-full h5 {
-    font-weight: 400;
+font-weight: 600;
     text-transform: uppercase;
-    font-size: .7em;
+    font-size: .6em;
     line-height: 1.2em;
-    margin-bottom: .5em;
+    margin-bottom: 1.5em;
     color: #FBF5F3;
     letter-spacing: .2em;}
 	.split-lists .split-list-full p {
