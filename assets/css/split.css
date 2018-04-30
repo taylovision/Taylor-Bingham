@@ -223,11 +223,16 @@ body.page-template-page-fullsingle-split {
     margin-bottom: 40px;
     letter-spacing: 0.4px;
     color:#FBF5F3; }
+.split-back {
+	 width: 100%;
+    display: inline-block;
+    vertical-align: top;
+	}
 	.split-back a {
     color: #FBF5F3;
 	font-weight: 400;
     text-transform: uppercase;
-	font-size: .3em;
+	font-size: .6em;
     line-height: 1.5em;
 	letter-spacing:.2em;
     margin-bottom: 3em;
