@@ -227,6 +227,7 @@ body.page-template-page-fullsingle-split {
 	 width: 100%;
     display: inline-block;
     vertical-align: top;
+	margin-botom:5em;
 	}
 	.split-back a {
     color: #FBF5F3;
