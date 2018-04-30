@@ -324,6 +324,7 @@ font-weight: 600;
 	.split-lists .split-list-full p {
 	font-size: .8em;
 	 line-height: 1.5em;
+	margin-bottom: 3em;
 	}
 .split-credit {
   opacity: 0.4; }
