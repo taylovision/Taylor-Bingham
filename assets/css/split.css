@@ -277,7 +277,15 @@ body.page-template-page-fullsingle-split {
     .split-lists .split-list {
       width: 90%;
 	  margin-right: 0px; } }
-  .split-lists .split-list h3 {
+	  
+.split-lists .split-list-full {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 40px;
+   margin-right: 16px; }
+   
+  .split-lists .split-list .split-list-full h3 {
     font-weight: 800;
     text-transform: uppercase;
     font-size: 11px;
