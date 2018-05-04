@@ -222,7 +222,7 @@ body.page-template-page-fullsingle-split {
     line-height: 16px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
-    color:#FBF5F3; }
+    color:rgb(255,255,255); }
 .split-back {
 	 width: 100%;
     display: inline-block;
@@ -273,15 +273,15 @@ body.page-template-page-fullsingle-split {
     .split-bio {
       padding: 20px 0; } }
   .split-bio p {
-    color: #848d96; }
+    color:rgb(255,255,255); }
   .split-bio a {
-    color: #848d96;
+    color:  rgb(250, 255, 216);
     transition-duration: 0.5s;
-    border-bottom: 1px dotted #848d96; }
+    border-bottom: 1px dotted  rgb(250, 255, 216); }
     .split-bio a:hover {
-      color: #CA486d;
+      color: rgb(212, 175, 185);
       transition-duration: 0.1s;
-      border-bottom: 1px dotted #CA486d; }
+      border-bottom: 1px dotted  rgb(250, 255, 216); }
 
 .split-lists .split-list {
   width: 30%;
