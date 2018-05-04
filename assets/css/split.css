@@ -320,7 +320,6 @@ body.page-template-page-fullsingle-split {
     margin-bottom: 12px; }
     .split-lists .split-list ul li a {
       color:rgb(203, 247, 237);
-	  opacity: 0.5;
       transition-duration: 0.5s; }
       .split-lists .split-list ul li a:hover {
           color:rgb(203, 247, 237);
