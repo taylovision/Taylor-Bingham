@@ -312,7 +312,7 @@ body.page-template-page-fullsingle-split {
     font-size: 0.6em;
     line-height: .6em;
     margin-bottom: 2em;
-    color: rgb(250, 255, 216);
+    color: rgb(255, 255, 255);
     letter-spacing: .2em; }
   .split-lists .split-list ul li {
     font-size: 16px;
@@ -332,7 +332,7 @@ body.page-template-page-fullsingle-split {
     font-size: .7em;
     line-height: 1.2em;
     margin-bottom: .5em;
-    color:rgb(203, 247, 237);
+    color:rgb(250, 255, 216);
     letter-spacing: .2em;}
 	  .split-lists .split-list-full h5 {
 font-weight: 600;
@@ -340,7 +340,7 @@ font-weight: 600;
     font-size: .6em;
     line-height: 1.2em;
     margin-bottom: 1.5em;
-    color:rgb(203, 247, 237);
+    color:rgb(250, 255, 216);
     letter-spacing: .2em;}
 	.split-lists .split-list-full p {
 	font-size: .8em;
