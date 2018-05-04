@@ -101,12 +101,12 @@ body.page-template-page-fullsingle-split {
   font-size: 21px;
   line-height: 33px;
   letter-spacing: -0.2px;
-  color:rgb(212, 175, 185);
+  color:rgb(203, 247, 237);
   -webkit-animation: fadein 2s;
           animation: fadein 2s; }
 		  
   body.page-template-page-fullsingle-split p {
-    color:rgb(212, 175, 185); 
+    color:rgb(203, 247, 237); 
 	opacity: 0.8; }
 
 .fs-split {
@@ -230,18 +230,17 @@ body.page-template-page-fullsingle-split {
 	margin-bottom:5em;
 	}
 	.split-back a {
-    color:rgb(212, 175, 185);
+    color:rgb(203, 247, 237);
 	font-weight: 400;
     text-transform: uppercase;
 	font-size: .6em;
     line-height: 1.5em;
 	letter-spacing:.2em;
     margin-bottom: 3em;
-	opacity: 0.5;
     transition-duration: 0.5s;
      }
     .split-back a:hover {
-      color:rgb(212, 175, 185);
+      color:rgb(203, 247, 237);
      opacity: 0.8;
     transition-duration: 0.1s;
 	}
@@ -313,18 +312,18 @@ body.page-template-page-fullsingle-split {
     font-size: 0.6em;
     line-height: .6em;
     margin-bottom: 2em;
-    color: #A63D40;
+    color: rgb(250, 255, 216);
     letter-spacing: .2em; }
   .split-lists .split-list ul li {
     font-size: 16px;
     line-height: 16px;
     margin-bottom: 12px; }
     .split-lists .split-list ul li a {
-      color:rgb(212, 175, 185);
+      color:rgb(203, 247, 237);
 	  opacity: 0.5;
       transition-duration: 0.5s; }
       .split-lists .split-list ul li a:hover {
-          color:rgb(212, 175, 185);
+          color:rgb(203, 247, 237);
 	  opacity: 0.8;
         transition-duration: 0.1s; }
   .split-lists .split-list-full h4 {
@@ -333,7 +332,7 @@ body.page-template-page-fullsingle-split {
     font-size: .7em;
     line-height: 1.2em;
     margin-bottom: .5em;
-    color:rgb(212, 175, 185);
+    color:rgb(203, 247, 237);
     letter-spacing: .2em;}
 	  .split-lists .split-list-full h5 {
 font-weight: 600;
@@ -341,7 +340,7 @@ font-weight: 600;
     font-size: .6em;
     line-height: 1.2em;
     margin-bottom: 1.5em;
-    color:rgb(212, 175, 185);
+    color:rgb(203, 247, 237);
     letter-spacing: .2em;}
 	.split-lists .split-list-full p {
 	font-size: .8em;
@@ -354,7 +353,7 @@ font-weight: 600;
     font-size: 12px;
     line-height: 14px; }
     .split-credit p a {
-      color: rgb(212, 175, 185); }
+      color: rgb(203, 247, 237); }
 
 .split-video {
   overflow: hidden;
