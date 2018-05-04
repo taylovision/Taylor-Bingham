@@ -104,10 +104,6 @@ body.page-template-page-fullsingle-split {
   color:rgb(203, 247, 237);
   -webkit-animation: fadein 2s;
           animation: fadein 2s; }
-		  
-  body.page-template-page-fullsingle-split p {
-    color:rgb(203, 247, 237); 
-	opacity: 0.8; }
 
 .fs-split {
   width: 100vw;
