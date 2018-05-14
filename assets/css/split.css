@@ -308,7 +308,7 @@ body.page-template-page-fullsingle-split p {
    margin-right: 16px; }
    
   .split-lists .split-list h3,  .split-lists .split-list-full h3 {
- font-weight: 800;
+ 	font-weight: 800;
     text-transform: uppercase;
     font-size: 0.6em;
     line-height: .6em;
@@ -328,7 +328,6 @@ body.page-template-page-fullsingle-split p {
         transition-duration: 0.1s; }
   .split-lists .split-list-full h4 {
     font-weight: 800;
-    text-transform: uppercase;
     font-size: .7em;
     line-height: 1em;
     margin-bottom: 1em;
@@ -336,7 +335,6 @@ body.page-template-page-fullsingle-split p {
     letter-spacing: .2em;}
 	  .split-lists .split-list-full h5 {
 font-weight: 600;
-    text-transform: uppercase;
     font-size: .6em;
     line-height: .5em;
 	 margin-bottom: 1.4em;
